@@ -1,1 +1,2 @@
-Esto un un .txt con información, push request, en aules.
+Esto un .txt con información, push request, en aules.
+No es en aules, la hacemos por github.
